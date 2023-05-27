@@ -21,6 +21,9 @@ Presentamos en este repositorio el código Python: desarrollo de un sistema inte
 
 Una vez que ejecutas el Script de Python debes colocar el punto de origen, luego el punto destino deseaso. El sistema te presentará la ruta y distancia (con datos simulados) entre el punto A y el Punto B, buscando brindar al usuario la menor distancia a recorrer entre los dos puntos: el origen y el destino. Ahorrando tiempo en desplazamiento de esta manera. 
 
+![Grafo Ruta](https://github.com/Brayan-Bonilla1224/IA_unidad2_act4/blob/main/Figure_1.png)
+
+
 ## Contribución
 
 1. Haz un fork del repositorio.
