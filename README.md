@@ -10,12 +10,12 @@ Presentamos en este repositorio el código Python: desarrollo de un sistema inte
 
 ## Requisitos
 
-- Python versión 3.11 o superior.
+- Python versión 3.11 o superior. 💻
 
 ## Instalación
 
-1. Clona este repositorio.
-2. Ejecuta el archivo .py
+1. Clona este repositorio. 🌀
+2. Ejecuta el archivo .py 📇
 
 ## Uso
 
