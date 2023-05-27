@@ -4,6 +4,10 @@
 
 Presentamos en este repositorio el código Python: desarrollo de un sistema inteligente que a partir de una base de conocimiento escrito en reglas lógicas, desarrolle la mejor ruta para moverse desde un punto A y un punto B en el sistema de transporte masivo local. Para el caso concreto del ejemplo tomamos a manera de ejemplo algunos lugares de la cabecera municipal de Santa Rosa de Osos, municipio ubicado en el norte del departamento de Antioquia. 
 
+### Brayan Steven Bonilla Castellanos 👨‍💻
+### Juan Carlos Monsalve Gómez 👨‍🏫
+
+
 ## Requisitos
 
 - Python versión 3.11 o superior.
